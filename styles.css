@@ -4,6 +4,7 @@
   margin: 10px;
   padding-top: 10px;
 }
+
 .heading span {
   color: #ff5c0f;
 }
@@ -62,7 +63,6 @@ li {
   padding-top: 100px;
 }
 
-
 button {
   background-color: #20a8b4;
   color: #fff;
@@ -83,7 +83,6 @@ button {
     display: flex;
     position: fixed;
     right: 12%;
-    
   }
   
   li {
@@ -101,7 +100,6 @@ button {
     padding: 12px;
     border-radius: 10px;
     display: flex;
-    
     background-color: #20a8b4;
     color: #fff;
     text-align: center;
@@ -111,9 +109,6 @@ button {
     width: auto;
     height: 10%;
     margin: 20px;
-  
-    
-    
   }
 
   .learn-more {
